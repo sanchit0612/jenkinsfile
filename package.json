@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "test:Demotest": "testcafe -c 1 chrome,edge test\testfile.js"
+    },
+    "dependencies": {
+        "testcafe": "^3.6.2"
+    },
+    "devDependencies": {
+        "testcafe-reporter-html": "^1.4.6"
+    }
+}

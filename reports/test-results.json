@@ -1,0 +1,61 @@
+{
+  "startTime": "2024-08-22T11:39:23.977Z",
+  "endTime": "2024-08-22T11:39:35.512Z",
+  "userAgents": [
+    "Chrome 128.0.0.0 / Windows 11"
+  ],
+  "passed": 3,
+  "total": 3,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "My Fixture",
+      "path": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\MiniProject\\test\\testfile.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "test1",
+          "meta": {},
+          "errs": [],
+          "durationMs": 1851,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "My Fixture",
+      "path": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\MiniProject\\test\\testfile.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "input",
+          "meta": {},
+          "errs": [],
+          "durationMs": 5384,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    },
+    {
+      "name": "My Fixture",
+      "path": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\MiniProject\\test\\testfile.js",
+      "meta": {},
+      "tests": [
+        {
+          "name": "button",
+          "meta": {},
+          "errs": [],
+          "durationMs": 3039,
+          "unstable": false,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
